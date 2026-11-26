@@ -1,0 +1,30 @@
+# ---- Vivado ----
+.Xil/
+xsim.dir/
+high_hz.cache/
+high_hz.gen/
+high_hz.hw/
+high_hz.ioplanning/
+high_hz.ip_user_files/
+high_hz.runs/
+high_hz.sim/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.ltx
+*.bit
+*.bin
+*.dcp
+*.rpt
+*.mcs
+*.prm
+
+# ---- OS / editor ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.vscode/
